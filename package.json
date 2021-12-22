@@ -1,0 +1,26 @@
+{
+  "name": "ts-getapi",
+  "version": "1.0.0",
+  "description": "##  やること - コミット時にバグチェックできるようにする(ESLint, Prettier) - GitHubのAPIを叩く",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masanari9256/api-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masanari9256/api-practice/issues"
+  },
+  "homepage": "https://github.com/masanari9256/api-practice#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.4",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.0"
+  }
+}
