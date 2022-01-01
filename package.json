@@ -1,7 +1,7 @@
 {
   "name": "ts-getapi",
   "version": "1.0.0",
-  "description": "##  やること - コミット時にバグチェックできるようにする(ESLint, Prettier) - GitHubのAPIを叩く",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=production",
